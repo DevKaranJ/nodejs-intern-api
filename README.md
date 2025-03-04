@@ -13,7 +13,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nodejs-intern-api.git
+   git clone https://github.com/DevKaranJ/nodejs-intern-api
    cd nodejs-intern-api
    ```
 

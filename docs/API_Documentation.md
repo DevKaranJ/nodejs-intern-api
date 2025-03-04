@@ -158,6 +158,3 @@ This document provides details about the RESTful APIs developed for managing eve
     ```json
     { "error": "Failed to delete event" }
     ```
-
-## Conclusion
-This documentation provides a comprehensive overview of the Event Management API, including the expected outputs for both successful and failed API calls.
